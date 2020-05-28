@@ -5,7 +5,6 @@ import requests
 from datetime import datetime
 from selenium import webdriver
 
-
 vk = vk_api.VkApi(
     token="be1960c0de632c8a113bae5014c3b1537dc45cce13bbbb4915d08547cdf063a4cb77faf1a0c4772cd93c1")
 
